@@ -13,6 +13,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "setup": "npm install",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -36,6 +37,7 @@
     "autoprefixer": "^10.4.14",
     "gh-pages": "^5.0.0",
     "postcss": "^8.4.24",
+    "qrcode": "^1.5.3",
     "react-scripts": "^5.0.1",
     "tailwindcss": "^3.3.2"
   },
@@ -53,10 +55,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ai-study-buddy.git"
+    "url": "https://github.com/Villain-vvr/ai-study-buddy.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/ai-study-buddy/issues"
+    "url": "https://github.com/Villain-vvr/ai-study-buddy/issues"
   },
-  "homepage": "https://yourusername.github.io/ai-study-buddy"
+  "homepage": "https://villain-vvr.github.io/ai-study-buddy"
 }
