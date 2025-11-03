@@ -143,7 +143,7 @@ yarn build
 
 ## 🎥 Demo Video
 
-> **https://ai-study-buddy-sandy.vercel.app/**
+> 
 - ✅ Using flashcards for learning
 - ✅ Taking practice quizzes
 - ✅ Viewing personalized study tips
