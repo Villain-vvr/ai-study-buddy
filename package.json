@@ -15,7 +15,9 @@
     "dev": "node scripts/generate-url-qr.js && vite --host --port 3000 --open",
     "build": "vite build",
     "preview": "vite preview",
-    "qr": "node scripts/generate-url-qr.js"
+    "qr": "node scripts/generate-url-qr.js",
+    "setup": "npm install",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -38,6 +40,7 @@
     "autoprefixer": "^10.4.14",
     "gh-pages": "^5.0.0",
     "postcss": "^8.4.24",
+    "qrcode": "^1.5.3",
     "react-scripts": "^5.0.1",
     "tailwindcss": "^3.3.2"
   },
@@ -55,10 +58,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ai-study-buddy.git"
+    "url": "https://github.com/Villain-vvr/ai-study-buddy.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/ai-study-buddy/issues"
+    "url": "https://github.com/Villain-vvr/ai-study-buddy/issues"
   },
-  "homepage": "https://yourusername.github.io/ai-study-buddy"
+  "homepage": "https://villain-vvr.github.io/ai-study-buddy"
 }
