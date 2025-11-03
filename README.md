@@ -70,22 +70,18 @@
 
 ## �🚀 Getting Started
 
-### Prerequisites
 - Node.js 16+ installed
 - npm or yarn package manager
 - A modern web browser
 
-### Installation
 
 1. **Clone the repository**
 ```bash
 git clone https://github.com/yourusername/ai-study-buddy.git
-cd ai-study-buddy
 ```
 
 2. **Install dependencies**
 ```bash
-npm install
 # or
 yarn install
 ```
@@ -148,10 +144,6 @@ yarn build
 ## 🎥 Demo Video
 
 > **https://ai-study-buddy-sandy.vercel.app/**
-
-**What the demo covers:**
-- ✅ App walkthrough and UI
-- ✅ Creating study materials with AI
 - ✅ Using flashcards for learning
 - ✅ Taking practice quizzes
 - ✅ Viewing personalized study tips
@@ -168,10 +160,6 @@ This project extensively utilized AI-powered coding tools to accelerate developm
    - Generated complete React component structure
    - Created responsive UI with Tailwind CSS
    - Implemented flashcard generation logic
-   - Designed quiz question algorithms
-
-2. **GitHub Copilot** - Code completion and suggestions
-   - Autocompleted repetitive code patterns
    - Suggested optimal React hooks usage
    - Helped with CSS styling
 
